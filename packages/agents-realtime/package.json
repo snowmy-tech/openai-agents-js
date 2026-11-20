@@ -100,8 +100,8 @@
   },
   "devDependencies": {
     "@types/debug": "^4.1.13",
-    "vite": "^6.4.3",
-    "zod": "^4.2.0"
+    "vite": "^6.4.5",
+    "zod": "^4.6.6"
   },
   "files": [
     "dist"
